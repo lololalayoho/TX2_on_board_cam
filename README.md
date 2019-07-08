@@ -1,7 +1,7 @@
 # for Jetson 4.2+ Users.
 This package is only for jetson 4.2 users. not for jetson 3.x!
 
-`nvcamerasrc` is deprecated in jetson 4.2, so you should replace it by 'nvarguscamerasrc'!
+`nvcamerasrc` is deprecated in jetson 4.2, so you should replace it by `nvarguscamerasrc`!
 
 # on_board_cam
 ROS package that launches Jetson TX2 on-board camera  
